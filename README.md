@@ -1,7 +1,7 @@
 # humanOS - http://humanOSgotyou.com/
 ## humanOS has a little bug, let's work together to fix it ❤❤❤ 
 
-Repository Focus - **humanOS PDF** updated irregularly😂
+Repository Focus - **humanOS PDF** updated irregularly 😂
 
 ## “If it’s proven that the world is a virtual program, a technical solution should be developed, including decompilation details, to reverse engineer the source code and make it open source.”
 ## “How to use ‘gifts of nature’ to debug the software layer and overclock the hardware layer in this ‘Universe LLM Software’ world.”

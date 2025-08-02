@@ -1,5 +1,5 @@
 # humanOS - http://humanOSgotyou.com/
-##humanOS has a little bug, let's work together to fix it ❤❤❤ 
+## humanOS has a little bug, let's work together to fix it ❤❤❤ 
 
 Repository Focus - **humanOS PDF** updated irregularly😂
 

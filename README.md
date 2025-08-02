@@ -6,7 +6,8 @@ Repository Focus - **humanOS PDF** updated irregularly 😂
 ## “If it’s proven that the world is a virtual program, a technical solution should be developed, including decompilation details, to reverse engineer the source code and make it open source.”
 ## “How to use ‘gifts of nature’ to debug the software layer and overclock the hardware layer in this ‘Universe LLM Software’ world.”
 
-#humanOS RayVerse Beta2 OpenSource Session
+
+### humanOS#001 - 🇬🇧 🇨🇳 - Understand humanOS beta2 in a personal & emotional way
 
 July 24, 2024, 9:30 AM
 
